@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**mertcnkksy/mertcnkksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mertcan</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Software Development | AI | Computer Vision
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 💻 Interested in Software Development
+- 🤖 Exploring Artificial Intelligence
+- 👁️ Working on Computer Vision and Image Processing
+- 📚 Always learning new technologies
+- 🚀 Developing innovative software projects
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,opencv,git,github,vscode" />
+</p>
+
+---
+
+### 📂 My Projects
+
+- **Adaptive ROI Video Encoder** — Intelligent video encoding and region-based quality optimization.
+- **Fitness Tracker** — Fitness tracking application.
+- **Image Processing** — Computer vision and image processing experiments.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mertcnkksy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcnkksy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  Learn. Code. Build. Improve.
+</p>
