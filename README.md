@@ -27,9 +27,9 @@ Software Development | AI | Computer Vision
 
 ### 📂 My Projects
 
-- **Adaptive ROI Video Encoder** — Intelligent video encoding and region-based quality optimization.
-- **Fitness Tracker** — Fitness tracking application.
-- **Image Processing** — Computer vision and image processing experiments.
+- **Adaptive ROI Video Encoder** — AI-based adaptive video encoding and region-based quality optimization. (In Development)
+- **Fitness Tracker** — Java-based fitness tracking application.
+
 
 ---
 
